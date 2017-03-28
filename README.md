@@ -2,7 +2,7 @@
 
 wait-for-it.sh https://github.com/vishnubob/wait-for-it
 
-### Required Modules
+### Required Modules and Infrastructure
 - [x] Django  
 - [x] Docker-compose  
 - [x] Mysql  
