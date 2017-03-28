@@ -8,7 +8,6 @@ wait-for-it.sh https://github.com/vishnubob/wait-for-it
 - [x] Mysql  
 - [x] Gunicorn  
 - [ ] Mysql persistent data volume connection
-- [ ] AWS EB
 
 ### Required startup actions
 - [ ] python manage.py collectstatic
