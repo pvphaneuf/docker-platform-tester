@@ -6,7 +6,7 @@ wait-for-it.sh https://github.com/vishnubob/wait-for-it
 - [x] Django  
 - [x] Docker-compose  
 - [x] Mysql  
-- [ ] Gunicorn  
+- [x] Gunicorn  
 - [ ] Mysql persistent data volume connection
 
 ### Required startup actions
